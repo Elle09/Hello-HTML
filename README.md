@@ -1,4 +1,7 @@
 # Hello-HTML
+
+Question: what is meant by ..."Copy and paste the first block of code into your terminal inside Visual Studio Code" in the assignment instructions?
+
 <b>Assignment</b>
 
 Welcome to your first assignment using HTML! In this exercise you will be creating a simple HTML file that has a <h1> element with the content "Hello HTML!" inside the tag. Once the assignment is complete, post the link to your repo on GitHub.
@@ -11,7 +14,7 @@ HTML CSS Support
 JavaScript (ES6) code snippets
 These extensions will be necessary for the Web Development pathway.
 
-<b>Instructions</b>
+<br>Instructions</br>
 
 In your terminal, navigate to your projects folder where all your repositories should be located.
 
@@ -30,4 +33,4 @@ Inside the <body> tag, add an <h1> element with the content "Hello HTML!".
 Afterwards, create a repository on GitHub to push your work to. Copy and paste the first block of code into your terminal inside Visual Studio Code.
 
    
-   what is meant by "Copy and paste the first block of code into your terminal inside Visual Studio Code" in the assignment instructions?
+
